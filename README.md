@@ -8,3 +8,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 13 ocak pazartesi
 14 ocak salı
 15 ocak çarşamba
+16 ocak perşembe
