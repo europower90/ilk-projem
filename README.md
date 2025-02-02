@@ -26,3 +26,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 30 ocak perşembe
 31 ocak cuma
 1 şubat cumartesii
+2 şubat pazar
