@@ -28,3 +28,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 1 şubat cumartesii
 2 şubat pazar
 3 şubat pazartesi
+4 şubat salı
