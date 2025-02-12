@@ -36,3 +36,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 9 şubat pazar
 10 şubat pazartesi
 11 şubat salı
+12 şubat çarşamba
