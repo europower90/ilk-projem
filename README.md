@@ -41,3 +41,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 14 şubat cuma
 15 şubat cumartesi
 16 şubat pazar
+17 şubat pazartesi
