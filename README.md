@@ -54,3 +54,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 27 şubat perşembe
 28 şubat cuma
 1 mart cumartesi
+2 mart pazar
