@@ -59,3 +59,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 4 mars salı
 5 mart çarşamba
 6 mart perşembe
+7 mart cuma
