@@ -86,3 +86,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 31 mart pazartesi
 1 nisan salı
 2 nisan çarşamba
+3 nisan perşembe
