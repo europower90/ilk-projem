@@ -98,3 +98,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 12 nisan cumartesi
 13 nisan pazar
 14 nisan pazartesi
+15 nisan salı
