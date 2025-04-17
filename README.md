@@ -100,3 +100,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 14 nisan pazartesi
 15 nisan salı
 16 nisan çarşamba
+17 nisan perşembe
