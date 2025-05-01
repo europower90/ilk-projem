@@ -114,3 +114,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 28 nisan pazartesi
 29 nisan salı
 30 nisan çarşamba
+1 mayıs perşembe
