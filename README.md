@@ -118,3 +118,4 @@ Bu, GitHub üzerinde yaptığım ilk commit!
 2 mayıs cuma
 3 mayıs cumartesi
 4 mayıs pazar
+5 mayıs pazartesi
